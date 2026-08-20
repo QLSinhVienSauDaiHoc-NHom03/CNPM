@@ -11,13 +11,13 @@ Hệ thống hỗ trợ quản lý toàn bộ quy trình đào tạo sau đại 
 | STT | Mã sinh viên | Họ và tên | Vai trò phân công | Email | Tài khoản GitHub |
 | :-: | :----------: | :-------- | :---------------- | :---- | :--------------- |
 | 1   | [DPM235491]   | [Nguyễn Minh Trường] | **Product Owner (PO) / Team Lead** | [Email] | [@username](https://github.com/username) |
-| 2   | [Điền MSV]   | [Điền Họ tên] | **Backend Developer** | [Email] | [@username](https://github.com/username) |
-| 2   | [Điền MSV]   | [Điền Họ tên] | **Backend Developer** | [Email] | [@username](https://github.com/username) |
-| 3   | [Điền MSV]   | [Điền Họ tên] | **Frontend / Mobile Developer** | [Email] | [@username](https://github.com/username) |
-| 3   | [Điền MSV]   | [Điền Họ tên] | **Frontend / Mobile Developer** | [Email] | [@username](https://github.com/username) |
+| 2   | [DPM235481]   | [Đặng Kim Thảo] | **Backend Developer** | [Email] | [@username](https://github.com/username) |
+| 2   | [DPM235497]   | [Trần Thị Thúy Vi] | **Backend Developer** | [Email] | [@username](https://github.com/username) |
+| 3   | [DPM235503]   | [Lê Thị Kim Yến] | **Frontend / Mobile Developer** | [Email] | [@username](https://github.com/username) |
+| 3   | [DPM235461]   | [Trương Thị Huỳnh Như] | **Frontend / Mobile Developer** | [Email] | [@username](https://github.com/username) |
+| 4   | [DPM235405]   | [Lê Thị Kim Anh] | **DevOps / Cloud Engineer** | [Email] | [@username](https://github.com/username) |
 | 4   | [Điền MSV]   | [Điền Họ tên] | **DevOps / Cloud Engineer** | [Email] | [@username](https://github.com/username) |
-| 4   | [Điền MSV]   | [Điền Họ tên] | **DevOps / Cloud Engineer** | [Email] | [@username](https://github.com/username) |
-| 5   | [Điền MSV]   | [Điền Họ tên] | **QA / Security & Data Specialist** | [Email] | [@username](https://github.com/username) |
+| 5   | [DPM235442]   | [Lương Gia Linh] | **QA / Security & Data Specialist** | [Email] | [@username](https://github.com/username) |
 
 ---
 
