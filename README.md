@@ -8,16 +8,16 @@ Hệ thống hỗ trợ quản lý toàn bộ quy trình đào tạo sau đại 
 
 ## 👥 Danh sách thành viên & Phân công vai trò
 
-| STT | Mã sinh viên | Họ và tên | Vai trò phân công | Email | Tài khoản GitHub |
-| :-: | :----------: | :-------- | :---------------- | :---- | :--------------- |
-| 1   | [DPM235491]   | [Nguyễn Minh Trường] | **Product Owner (PO) / Team Lead** | [Email] | [@username](https://github.com/username) |
-| 2   | [DPM235481]   | [Đặng Kim Thảo] | **Backend Developer** | [Email] | [@username](https://github.com/username) |
-| 2   | [DPM235497]   | [Trần Thị Thúy Vi] | **Backend Developer** | [Email] | [@username](https://github.com/username) |
-| 3   | [DPM235503]   | [Lê Thị Kim Yến] | **Frontend / Mobile Developer** | [Email] | [@username](https://github.com/username) |
-| 3   | [DPM235461]   | [Trương Thị Huỳnh Như] | **Frontend / Mobile Developer** | [Email] | [@username](https://github.com/username) |
-| 4   | [DPM235405]   | [Lê Thị Kim Anh] | **DevOps / Cloud Engineer** | [Email] | [@username](https://github.com/username) |
-| 4   | [Điền MSV]   | [Điền Họ tên] | **DevOps / Cloud Engineer** | [Email] | [@username](https://github.com/username) |
-| 5   | [DPM235442]   | [Lương Gia Linh] | **QA / Security & Data Specialist** | [Email] | [@username](https://github.com/username) |
+| STT | Mã sinh viên | Họ và tên | Vai trò phân công | Email |
+| :-: | :----------: | :-------- | :---------------- | :---- |
+| 1   | [DPM235491]   | [Nguyễn Minh Trường] | **Product Owner (PO) / Team Lead** | [truong_dpm235491@student.agu.edu.vn] |
+| 2   | [DPM235481]   | [Đặng Kim Thảo] | **Backend Developer** | [thao_dpm235481@student.agu.edu.vn] |
+| 2   | [DPM235497]   | [Trần Thị Thúy Vi] | **Backend Developer** | [vi_dpm235497@student.agu.edu.vn] | 
+| 3   | [DPM235503]   | [Lê Thị Kim Yến] | **Frontend / Mobile Developer** | [yen_dpm235503@student.agu.edu.vn] |
+| 3   | [DPM235461]   | [Trương Thị Huỳnh Như] | **Frontend / Mobile Developer** | [nhu_dpm235461@student.agu.edu.vn] | 
+| 4   | [DPM235405]   | [Lê Thị Kim Anh] | **DevOps / Cloud Engineer** | [anh_dpm235405@student.agu.edu.vn] | 
+| 4   | [Điền MSV]   | [Điền Họ tên] | **DevOps / Cloud Engineer** | [Email] |
+| 5   | [DPM235442]   | [Lương Gia Linh] | **QA / Security & Data Specialist** | [linh_dpm235442@student.agu.edu.vn] | 
 
 ---
 
