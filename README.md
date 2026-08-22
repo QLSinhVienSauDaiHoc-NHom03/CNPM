@@ -16,7 +16,7 @@ Hệ thống hỗ trợ quản lý toàn bộ quy trình đào tạo sau đại 
 | 3   | [DPM235503]   | [Lê Thị Kim Yến] | **Frontend / Mobile Developer** | [yen_dpm235503@student.agu.edu.vn] |
 | 3   | [DPM235461]   | [Trương Thị Huỳnh Như] | **Frontend / Mobile Developer** | [nhu_dpm235461@student.agu.edu.vn] | 
 | 4   | [DPM235405]   | [Lê Thị Kim Anh] | **DevOps / Cloud Engineer** | [anh_dpm235405@student.agu.edu.vn] | 
-| 4   | [Điền MSV]   | [Điền Họ tên] | **DevOps / Cloud Engineer** | [Email] |
+| 4   | [DPM235515]   | [Lê Thị Yến Nhi ] | **DevOps / Cloud Engineer** | [nhi_dpm235515@student.agu.edu.vn] |
 | 5   | [DPM235442]   | [Lương Gia Linh] | **QA / Security & Data Specialist** | [linh_dpm235442@student.agu.edu.vn] | 
 
 ---
