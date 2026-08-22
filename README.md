@@ -23,7 +23,7 @@ Hệ thống hỗ trợ quản lý toàn bộ quy trình đào tạo sau đại 
 
 ## 🔗 Liên kết Repository (Phân hệ được phân công)
 
-* **Tổ chức (Organization):** [https://github.com/Ten-Organization-Cua-Nhom](https://github.com/)
+* **Tổ chức (Organization):** [[https://github.com/QLSinhVienSauDaiHoc-NHom03)]](https://github.com/)
 * **Repository chính của Phân hệ:** [https://github.com/Ten-Organization-Cua-Nhom/Ten-Repo-Phan-He](https://github.com/)
 
 ---
