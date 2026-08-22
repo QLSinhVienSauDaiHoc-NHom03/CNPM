@@ -31,7 +31,7 @@ Hệ thống hỗ trợ quản lý toàn bộ quy trình đào tạo sau đại 
 ## 📁 Cấu trúc thư mục dự án
 
 ```text
-├── README.md                      <-- File giới thiệu & phân công nhóm (Thư mục gốc)
+├── README.md                      <-- File giới thiệu & phân công nhóm 
 └── 01_Requirements/               <-- Tài liệu & Bóc tách yêu cầu Tuần 1
-    ├── Bien_Ban_Hop_Tuan_1.md     <-- Biên bản họp nhóm
-    └── Danh_Sach_User_Stories.md  <-- Danh sách User Stories từ quy chế đào tạo
+    ├── Bien_Ban_Hop_Tuan_1.md     
+    └── Danh_Sach_User_Stories.md 
