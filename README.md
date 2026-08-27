@@ -35,6 +35,4 @@ Hệ thống hỗ trợ quản lý toàn bộ quy trình đào tạo sau đại 
 └── 01_Requirements/               <-- Tài liệu & Bóc tách yêu cầu Tuần 1
     ├── Bien_Ban_Hop_Tuan_1.md     
     └── Danh_Sach_User_Stories.md 
-git pull origin main
-git revert 51aaa5c
-git push origin main
+
